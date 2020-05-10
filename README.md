@@ -1,8 +1,6 @@
 # Simon-Game
 
-This project was a part of the online web development courses I was taking.
-
-It is inspired by the electronic game, "Simon".
+This project was a part of an online web development course I was taking and it is inspired by the electronic game, "Simon".
 
 ----------------------------------------------------------------------------
 
