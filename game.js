@@ -78,7 +78,7 @@ $(document).one("keydown", function() {
 // ----------  Functions To Play Sounds And Animate The Buttons  ----------
 
 function playSound(name) {
-  var audio = new Audio("sounds/" + name + ".mp3");
+  var audio = new Audio(name + ".mp3");
   return audio.play();
 }
 
