@@ -78,7 +78,7 @@ $(document).one("keydown", function() {
 // ----------  Functions To Play Sounds And Animate The Buttons  ----------
 
 function playSound(name) {
-  var audio = new Audio(name + ".mp3");
+  var audio = new Audio("https://github.com/Arash-11/Simon-Game/blob/master/" + name + ".mp3?raw=true");
   return audio.play();
 }
 
