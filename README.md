@@ -2,6 +2,8 @@
 
 This project was a part of an online web development course I was taking and it is inspired by the electronic game, "Simon".
 
+You can check out the site here: https://arash-11.github.io/Simon-Game/
+
 ----------------------------------------------------------------------------
 
 Game description according to Wikipedia:
