@@ -17,4 +17,4 @@ Once the user fails or the time limit runs out, the game is over."
 
 Website preview:
 
-![image of the site page] (https://github.com/Arash-11/Simon-Game/blob/master/simon-game.png)
+![Image of the site page](https://github.com/Arash-11/Simon-Game/blob/master/simon-game.png)
